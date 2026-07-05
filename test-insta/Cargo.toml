@@ -1,0 +1,7 @@
+[package]
+name = "test-insta"
+version = "0.1.0"
+edition = "2024"
+
+[dev-dependencies]
+insta = { version = "1.48.0", features = ["yaml"] }

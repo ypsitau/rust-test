@@ -1,0 +1,5 @@
+---
+source: src/main.rs
+expression: generate_long_text()
+---
+This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.This is a very long string that we want to test with snapshot testing.
